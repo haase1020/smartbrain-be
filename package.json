@@ -1,0 +1,25 @@
+{
+  "name": "smartbrain-be",
+  "version": "1.0.0",
+  "description": "backend api for smartbrain app",
+  "main": "script.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  },
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haase1020/smartbrain-be.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/haase1020/smartbrain-be/issues"
+  },
+  "homepage": "https://github.com/haase1020/smartbrain-be#readme"
+}
